@@ -26,6 +26,7 @@ import (
 	"github.com/yext/Burrow/core/internal/cluster"
 	"github.com/yext/Burrow/core/internal/consumer"
 	"github.com/yext/Burrow/core/internal/evaluator"
+	"github.com/yext/Burrow/core/internal/helpers"
 	"github.com/yext/Burrow/core/internal/httpserver"
 	"github.com/yext/Burrow/core/internal/notifier"
 	"github.com/yext/Burrow/core/internal/storage"
